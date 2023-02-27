@@ -1,0 +1,79 @@
+.top-gun {
+    background-image: url("../img/top-gun.png");
+    background-size: 100%;
+}
+
+.banshees {
+    background-image: url("../img/banshees.png");
+    background-size: 100%;
+}
+
+.everything-everywhere {
+    background-image: url("../img/everything-everywhere.png");
+    background-size: 100%;
+}
+
+.fabelmans {
+    background-image: url("../img/fabelmans.png");
+    background-size: 100%;
+}
+
+.all-quiet {
+    background-image: url("../img/all-quiet.png");
+    background-size: 100%;
+}
+
+.tar {
+    background-image: url("../img/tar.png");
+    background-size: 100%;
+}
+
+.elvis {
+    background-image: url("../img/elvis.png");
+    background-size: 100%;
+}
+
+.avatar {
+    background-image: url("../img/avatar.png");
+    background-size: 100%;
+}
+
+.triangle {
+    background-image: url("../img/triangle.png");
+    background-size: 100%;
+}
+
+.women-talking {
+    background-image: url("../img/women-talking.png");
+    background-size: 100%;
+}
+
+button {
+    padding: 5px;
+    border: 0;
+    width: 140px;
+    height: 200px;
+}
+
+.btn-clicked {
+    border: 8px solid yellow;
+    border-color: yellow;
+    padding: 10px;
+    width: 160px;
+    height: 220px;
+}
+
+.category {
+    display: grid;
+    grid-template-columns: repeat(autofill);
+    margin-bottom: 5px;
+    gap: 2px;
+    align-items: start;
+    float: left;
+    width: 100%;
+}
+
+.category div {
+    float: left;
+    padding: 10px;
+}
